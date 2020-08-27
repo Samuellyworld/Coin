@@ -1,0 +1,15 @@
+.h1-seo {
+    font-weight: bolder;
+
+}
+.btn {
+	background-color: #f74621;
+	border-radius: 5px;
+	text-transform: uppercase;
+}
+.btn:hover {
+	text-transform: uppercase;
+	font-size: 1.5em;
+	background-color: #f74621;
+	border-radius: 5px;
+}
